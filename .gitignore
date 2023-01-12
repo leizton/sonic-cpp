@@ -56,3 +56,6 @@ perf.data
 # GDB
 .gdbinit
 gdb.txt
+
+.idea
+cmake-build-debug
